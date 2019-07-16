@@ -7,6 +7,7 @@ namespace projeto_teste {
             Console.WriteLine("Olá Wellington, seja bem-vindo ao git!!");
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia!");
+            Console.WriteLine("Tchau!");
         }
     }
 }
